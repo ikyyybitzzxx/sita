@@ -33,24 +33,24 @@ global.nomer = 'https://wa.me/6285922480867' //ganti jadi nomor mu
 global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》PERBULAN Rp 15.000\nMAKSIMAL 2 GRUP\n》2 BULAN 25.000\nMAKSIMAL 3 GRUP \n》3 BULAN Rp 40.000\nMAKSIMAL 2 GRUP'
 
 //=======『 Tampilan Dan Lainnya 』============//
-global.fotonya1 = 'https://telegra.ph/file/b6b25d5ff74febec06fb4.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/b6b25d5ff74febec06fb4.jpg' //ini juga ganti
-global.fotonya3 = 'https://telegra.ph/file/b6b25d5ff74febec06fb4.jpg' //ini juga ganti
-global.fotonya4 = 'https://telegra.ph/file/b6b25d5ff74febec06fb4.jpg' //ini juga ganti
-global.fotonya5 = 'https://telegra.ph/file/b6b25d5ff74febec06fb4.jpg' //ini juga ganti
-global.fotonya6 = 'https://telegra.ph/file/b6b25d5ff74febec06fb4.jpg' //ini ganti pakai foto sosialmedia mu
+global.fotonya1 = 'https://telegra.ph/file/6637837bb22211d5c3f22.jpg' //ganti jadi foto bot mu
+global.fotonya2 = 'https://telegra.ph/file/6637837bb22211d5c3f22.jpg' //ini juga ganti
+global.fotonya3 = 'https://telegra.ph/file/6637837bb22211d5c3f22.jpg' //ini juga ganti
+global.fotonya4 = 'https://telegra.ph/file/6637837bb22211d5c3f22.jpg' //ini juga ganti
+global.fotonya5 = 'https://telegra.ph/file/6637837bb22211d5c3f22.jpg' //ini juga ganti
+global.fotonya6 = 'https://telegra.ph/file/6637837bb22211d5c3f22.jpg' //ini ganti pakai foto sosialmedia mu
 global.fotonya7 = 'https://telegra.ph/file/b6b25d5ff74febec06fb4.jpg'
 global.fotonya8 = 'https://telegra.ph/file/b6b25d5ff74febec06fb4.jpg' //foto session
-global.donasi = 'https://telegra.ph/file/b6b25d5ff74febec06fb4.jpg' //ganti pakai poto payment atau apa
+global.donasi = 'https://telegra.ph/file/ad1ed0c3be2fdae3bd198.jpg' //ganti pakai poto payment atau apa
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = '❋ཻུ۪۪⸙Dark-MD⳹ ❋ཻུ۪۪'
 global.watermark = wm
-global.wm2 = 'ᯤ creator by Oᵂηʀ᭄๖ۣۣۜ𝐉𝐚𝐫𝐨𝐭_𝙊𝙛𝙛cོ1꧅'
-global.wm3 = 'ᯤ 𝐉𝐚𝐫𝐨𝐭 𝙾𝙵𝙲'
+global.wm2 = 'ᯤ creator by Kyy'
+global.wm3 = 'ᯤ Bot Ki'
 global.htki = '––––––『' 
 global.htka = '』––––––'
-global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
+global.media = 'https://telegra.ph/file/ad1ed0c3be2fdae3bd198.jpg'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.wait = '⏳Tunggu kurang lebih 1 menit karna sedang diproses. . .'
 global.eror = '_*🚨 Server Bot Sedang Error*_'
